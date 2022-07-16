@@ -1,0 +1,6 @@
+[
+  {
+    "ParameterKey": "FileAssetsBucketKmsKeyId",
+    "ParameterValue": "AWS_MANAGED_KEY"
+  }
+]
