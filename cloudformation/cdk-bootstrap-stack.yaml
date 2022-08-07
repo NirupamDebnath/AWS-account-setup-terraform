@@ -171,8 +171,6 @@ Resources:
             IgnorePublicAcls: true
             RestrictPublicBuckets: true
           - Ref: AWS::NoValue
-      VersioningConfiguration:
-        Status: Enabled
       LifecycleConfiguration:
         Rules:
           - Id: ObjectExpiryRule
